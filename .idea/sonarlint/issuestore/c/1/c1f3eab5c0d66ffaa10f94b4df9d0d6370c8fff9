@@ -1,0 +1,82 @@
+
+‡
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¾ôÝ³þÿÿÿÿ8©¦Œ¸Ñ.
+f
+java:S4143u"DVerify this is the key that was intended; it was already set before.(ÐÑŽÌùÿÿÿÿ8¤ð—¸Ñ.
+]	java:S125r"<This block of commented-out lines of code should be removed.(°ŸŸÚøÿÿÿÿ8âÍýµÑ.
+B
+java:S3457¢"%String contains no format specifiers.(Þíö8òí·Ñ.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(ÿÞ½Ïúÿÿÿÿ8Žýð·Ñ.
+A
+java:S3457O"%String contains no format specifiers.(Ö¬«+8Ï­Ñ·Ñ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¦¨¹8ôâÓµÑ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¹æ
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(€èÞ×8Žýð·Ñ.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(œúÅ×8ˆùùµÑ.
+@
+java:S3457@"%String contains no format specifiers.(™‰C8©¦Œ¸Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èµ“òúÿÿÿÿ8ÍÈÕ·Ñ.
+G
+java:S3457k"%String contains no format specifiers.(…æéáþÿÿÿÿ8Á´Ï·Ñ.
+G
+java:S3457"%String contains no format specifiers.(èµ“òúÿÿÿÿ8ÍÈÕ·Ñ.
+f
+java:S4143f"DVerify this is the key that was intended; it was already set before.(ô¥Ãðûÿÿÿÿ8¢ê÷µÑ.
+f
+java:S4143~"DVerify this is the key that was intended; it was already set before.(öÚ®êûÿÿÿÿ8ë´—¸Ñ.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(´¸ÈÈùÿÿÿÿ8ÝÇó·Ñ.
+G
+java:S3457!"%String contains no format specifiers.(§šÍÿýÿÿÿÿ8ÎýÔ·Ñ.
+B
+java:S34570"%String contains no format specifiers.(ÝÌß‘8³ûÓ·Ñ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(º˜½8±î‚¸Ñ.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(…æéáþÿÿÿÿ8Á´Ï·Ñ.
+g
+java:S4143"DVerify this is the key that was intended; it was already set before.(òº¾Þùÿÿÿÿ8º¯Û·Ñ.
+^	java:S125“"<This block of commented-out lines of code should be removed.(¾¨ü’ûÿÿÿÿ8åÈâ·Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ùûÀøÿÿÿÿ8í‘¶µÑ.
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(Ö¬«+8Ï­Ñ·Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(þÛ¥ùÿÿÿÿ8²½¸Ñ.
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(‘ÅÏ¶øÿÿÿÿ8Ô‘Ø·Ñ.
+H
+java:S3457„"%String contains no format specifiers.(»¾ðÝþÿÿÿÿ8Ô‘Ø·Ñ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ÝÌß‘8³ûÓ·Ñ.
+b
+java:S4143’"DVerify this is the key that was intended; it was already set before.(š§ìÄ8Ÿã±¸Ñ.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(ÃÂ‡Ÿ8Ô‘Ø·Ñ.
+H
+java:S3457•"%String contains no format specifiers.(‡®Ê®üÿÿÿÿ8º¯Û·Ñ.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(‡®Ê®üÿÿÿÿ8º¯Û·Ñ.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(»¾ðÝþÿÿÿÿ8Ô‘Ø·Ñ.
+a
+java:S4143d"DVerify this is the key that was intended; it was already set before.(úÅºÐ8à¶òµÑ.
+g
+java:S4143Œ"DVerify this is the key that was intended; it was already set before.(Äš¬Îúÿÿÿÿ8ëª±¸Ñ.
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(ÛÀÄû8¤ÁôµÑ.
+G
+java:S3457\"%String contains no format specifiers.(”“½®ýÿÿÿÿ8×®Ð·Ñ.
+U	java:S106¢"9Replace this use of System.out or System.err by a logger.(Þíö8òí·Ñ.
+a
+java:S4143t"DVerify this is the key that was intended; it was already set before.(÷÷Ô8¬”˜¸Ñ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(þ›‹8øÞÁµÑ.
+W	java:S125)"<This block of commented-out lines of code should be removed.(©†ÝY8¢ÞÝµÑ.
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(™‰C8©¦Œ¸Ñ.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ý¯ƒŽ8¢íƒ¸Ñ.
+G
+java:S3457x"%String contains no format specifiers.(ñÍÈüÿÿÿÿ8ü„Î·Ñ.
+f
+java:S4143v"DVerify this is the key that was intended; it was already set before.(çÜõ¤øÿÿÿÿ8ˆùùµÑ.
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(˜Ž˜8º¯Û·Ñ.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(þá¸‰ýÿÿÿÿ8©¦Œ¸Ñ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(§šÍÿýÿÿÿÿ8ÎýÔ·Ñ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ëÊÐüÿÿÿÿÿ8øÞÁµÑ.
+C
+java:S3457¯"%String contains no format specifiers.(€èÞ×8Žýð·Ñ.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(Øªòùÿÿÿÿ8øÞÁµÑ.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(Û°ì”ùÿÿÿÿ8ÂÖî·Ñ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(”“½®ýÿÿÿÿ8×®Ð·Ñ.
+x
+java:S1149n"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(œÃìûûÿÿÿÿ8‡âúµÑ.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ñÍÈüÿÿÿÿ8ü„Î·Ñ.
+U	java:S106—"9Replace this use of System.out or System.err by a logger.(Ã¬ð~8¨Ä†¸Ñ.

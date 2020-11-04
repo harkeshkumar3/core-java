@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«Çƒÿıÿÿÿÿ8³·×ïÎ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄ³
+G
+java:S2387"%"x" is the name of a field in "Base".(™Äÿÿÿÿÿ8Î”ŠğÎ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú¼îê8ŸÉÕïÎ.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(¢Îı8Ğ¯ÔïÎ.
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÃÍªàşÿÿÿÿ8³·×ïÎ.
+R
+java:S2209"5Change this instance-reference to a static reference.(ˆáÙ8â®‚ğÎ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(­ø8³·×ïÎ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¯õÉ´8ŞòŠğÎ.

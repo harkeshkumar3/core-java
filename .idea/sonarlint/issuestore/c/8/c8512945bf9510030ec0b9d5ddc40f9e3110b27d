@@ -1,0 +1,14 @@
+
+O
+java:S1199"-Extract this nested code block into a method.(Î€ä‚þÿÿÿÿ8‡ß¯‚Ó.
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8‡ß¯‚Ó.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬§ç«8‡ß¯‚Ó.
+J	java:S108")Either remove or fill this block of code.(Â»àÝûÿÿÿÿ8‡ß¯‚Ó.
+X	java:S899"<Do something with the "boolean" value returned by "hasNext".(éû·8‡ß¯‚Ó.
+J	java:S108")Either remove or fill this block of code.(Î€ä‚þÿÿÿÿ8‡ß¯‚Ó.
+M
+java:S1481"+Remove this unused "pencil" local variable.(Â»àÝûÿÿÿÿ8‡ß¯‚Ó.
+M
+java:S1481"+Remove this unused "pencil" local variable.(Â»àÝûÿÿÿÿ8‡ß¯‚Ó.

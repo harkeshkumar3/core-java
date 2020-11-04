@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÓ“É8†öÀŒĞ.
+=
+java:S1659" Declare "n3" on a separate line.(‰ˆÔş8òñ·ŒĞ.
+=
+java:S1659" Declare "n2" on a separate line.(‰ˆÔş8òñ·ŒĞ.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ê¥¹Âüÿÿÿÿ8ôĞŒĞ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áíÄüûÿÿÿÿ
+c
+java:S3457	"AFormat specifiers should be used instead of string concatenation.(ê¥¹Âüÿÿÿÿ8ôĞŒĞ.
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ûÓ“É8†öÀŒĞ.

@@ -1,0 +1,37 @@
+
+I
+java:S14815"'Remove this unused "x2" local variable.(…Îåÿüÿÿÿÿ8°´˜ÈÏ.
+>
+java:S2129+"!Remove this "Integer" constructor(¤ëÍ¼8ÊŞ‹ÈÏ.
+Z
+java:S21304"8Use "Long.parseLong" for this string-to-long conversion.(¦™”ìüÿÿÿÿ8°´˜ÈÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ÈéòÇÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8á²úÇÏ.
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(à¬Àúÿÿÿÿ
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ÊŞ‹ÈÏ.
+I
+java:S14816"'Remove this unused "x3" local variable.(äûº›úÿÿÿÿ8°´˜ÈÏ.
+D
+java:S14818"'Remove this unused "x5" local variable.(½õæ•8°´˜ÈÏ.
+A
+java:S2129)"Remove this "Short" constructor(‡¿Ùäÿÿÿÿÿ8ÊŞ‹ÈÏ.
+D
+java:S14817"'Remove this unused "x4" local variable.(Ã¥öÔ8°´˜ÈÏ.
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÀüšÚ8á²úÇÏ.
+>
+java:S2129"!Remove this "Integer" constructor(•ÙŠ8ÈéòÇÏ.
+;
+java:S21293"Remove this "Long" constructor(¢Ú­Œ8°´˜ÈÏ.
+9
+java:S21537"Remove the unboxing of "xL".(Ã¥öÔ8°´˜ÈÏ.
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãì»’üÿÿÿÿ8ÊŞ‹ÈÏ.
+x
+java:S2159'"VRemove this call to "equals"; comparisons between unrelated types always return false.(çÈú¶ùÿÿÿÿ8ÊŞ‹ÈÏ.
+I
+java:S14814"'Remove this unused "x1" local variable.(¦™”ìüÿÿÿÿ8°´˜ÈÏ.
+I
+java:S14819"'Remove this unused "x6" local variable.(ÅüÔóùÿÿÿÿ8°´˜ÈÏ.
+A
+java:S2129)"Remove this "Short" constructor(‡¿Ùäÿÿÿÿÿ8ÊŞ‹ÈÏ.

@@ -1,0 +1,19 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“ÿé•şÿÿÿÿ8î¤ìÎ.
+M
+java:S1172"+Remove this unused method parameter "data".(“ÿé•şÿÿÿÿ8î¤ìÎ.
+V
+java:S3400"9Remove this method and declare a constant for this value.(È¸å8¤şìÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÁõÅúÿÿÿÿ8¤şìÎ.
+V
+java:S3400"9Remove this method and declare a constant for this value.(”·³›8¤şìÎ.
+C
+java:S1172&"&Remove these unused method parameters.(İÁ®8–¸±ìÎ.
+J
+java:S1144&"-Remove this unused private "function" method.(İÁ®8Ö‘²ìÎ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿¼¾®ıÿÿÿÿ8î¤ìÎ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄ³
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ÄÀŒ„8–¸±ìÎ.
+C
+java:S1172*"&Remove these unused method parameters.( Êàµ8–¸±ìÎ.

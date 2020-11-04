@@ -1,0 +1,7 @@
+
+H
+java:S1481"&Remove this unused "i" local variable.(Æ½Àôúÿÿÿÿ8ò±ÖìÏ.
+N
+java:S16025",Remove useless curly braces around statement(µæ×°ûÿÿÿÿ8íõÄìÏ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ì¼ê
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¹‘ˆ‘şÿÿÿÿ8íõÄìÏ.

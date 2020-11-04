@@ -1,0 +1,10 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(ÈšÉ÷8ˆ‡êêÎ.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Õ§ª8ˆ‡êêÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹‰¸®ÿÿÿÿÿ8Ä¤÷êÎ.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(›æ—´şÿÿÿÿ8ëõ¸…Ó.
+>
+java:S1643"Use a StringBuilder instead.(›æ—´şÿÿÿÿ8«öêêÎ.

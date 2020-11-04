@@ -1,0 +1,37 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "name = " 3 times.(Î ¬ÿüÿÿÿÿ8£¡ïÀÏ.
+G
+java:S3457	"%String contains no format specifiers.(ÆîŸÄøÿÿÿÿ8õ§ÍÀÏ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8éÿíÀÏ.
+`
+java:S2276
+"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8¥ÉÎÀÏ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ§ÍÀÏ.
+E
+java:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8íò×ÀÏ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "State =" 3 times.(Î ¬ÿüÿÿÿÿ8£¡ïÀÏ.
+B
+java:S3457 "%String contains no format specifiers.(ºÖó8íò×ÀÏ.
+W
+java:S2274"":Remove this call to "wait" or move it into a "while" loop.(û¦Å®8íò×ÀÏ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÉ½Ğ8¯äÏÀÏ.
+A
+java:S3457("%String contains no format specifiers.(±öÇ8èôØÀÏ.
+B
+java:S3457"%String contains no format specifiers.(ÊÉ½Ğ8¯äÏÀÏ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õ§ÍÀÏ.
+T	java:S106("9Replace this use of System.out or System.err by a logger.(±öÇ8èôØÀÏ.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÆîŸÄøÿÿÿÿ8õ§ÍÀÏ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ºÖó8íò×ÀÏ.
+7
+java:S24383""runnable2" is a "Thread".(”ˆ«8•©áÀÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8£¡ïÀÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8£¡ïÀÏ.
+c
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8íò×ÀÏ.
+M
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ8Ú—ÏÀÏ.

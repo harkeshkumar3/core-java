@@ -1,0 +1,42 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(áÉê—ÿÿÿÿÿ8“ß·™×.
+J
+java:S1604'"(Make this anonymous inner class a lambda(‘á…ıÿÿÿÿ8â™ßßĞ.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18—¾ÉåĞ.
+E
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÎÊßĞ.
+E
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8â™ßßĞ.
+c
+java:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ß·™×.
+J
+java:S16041"(Make this anonymous inner class a lambda(Á¨Â‘úÿÿÿÿ8·ÎÊßĞ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÎÊßĞ.
+c
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ß·™×.
+E
+java:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆãŞßĞ.
+D
+java:S2189Y""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ƒ£ÔßĞ.
+J
+java:S1604<"(Make this anonymous inner class a lambda(¢éŒƒÿÿÿÿÿ8Ù³œåĞ.
+E
+java:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù³œåĞ.
+c
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ß·™×.
+E
+java:S1604"(Make this anonymous inner class a lambda(°“¡À8ˆãŞßĞ.
+J
+java:S1604"(Make this anonymous inner class a lambda(°ü™Ùüÿÿÿÿ8ÎĞÁßĞ.
+c
+java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ß·™×.
+D
+java:S2189P""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8äÎ¥åĞ.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Ìº÷ø8“ß·™×.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(ûƒš8“ß·™×.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ß·™×.
+:
+java:S2119X"Save and re-use this "Random".(¼İÅf8“ß·™×.

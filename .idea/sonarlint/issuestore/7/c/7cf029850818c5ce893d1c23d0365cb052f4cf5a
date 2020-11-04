@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙˆèÔüÿÿÿÿ8•ùïÚÑ.
+\
+java:S1128	":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8İäÚÑ.
+T
+java:S1128"7Remove this unused import 'org.junit.jupiter.api.Test'.(Öºˆß8–¬ëÚÑ.
+n
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(“åıá8­à–ÛÑ.
+
+java:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8­à–ÛÑ.
+I
+java:S1602",Remove useless curly braces around statement(ˆ°„³8¬’ôÚÑ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š†½ıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®°Èøÿÿÿÿ8ä‹ÛÑ.
+
+java:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8­à–ÛÑ.
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(®°Èøÿÿÿÿ8¼ÛÑ.

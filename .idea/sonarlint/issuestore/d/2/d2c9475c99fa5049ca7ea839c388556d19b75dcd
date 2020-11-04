@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø™ÌÙøÿÿÿÿ8ÁûÃÏ.
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ø™ÌÙøÿÿÿÿ8á®üÃÏ.
+U
+java:S1197"8Move the array designator from the variable to the type.(ÒĞÇô8÷ÃÏ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¹æ

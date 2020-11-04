@@ -1,0 +1,9 @@
+
+d
+java:S1182*"HUse super.clone() to create and seed the cloned instance to be returned.(™”” 8´þå‚Î.
+o
+java:S2975*"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ÎÖÑ‚Î.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ÃªŒæ8’ù¯‚Î.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(·äÚ´þÿÿÿÿ8‘Õò‚Î.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(¬¸™8É§ò‚Î.

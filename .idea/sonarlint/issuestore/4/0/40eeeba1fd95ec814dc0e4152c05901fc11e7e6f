@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8•Ó×ìÎ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒî¤ùÿÿÿÿ
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¡µ–á8¸ÈšíÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óŠ™Ëÿÿÿÿÿ8•Ó×ìÎ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åğ8š³„íÎ.
+v
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åğ8¸ÈšíÎ.
+c
+java:S1192
+"FDefine a constant instead of duplicating this literal "Geeks" 3 times.(ˆÅİÃ8•Ó×ìÎ.
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(óŠ™Ëÿÿÿÿÿ8•Ó×ìÎ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¹æ
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ß×œä8š³„íÎ.

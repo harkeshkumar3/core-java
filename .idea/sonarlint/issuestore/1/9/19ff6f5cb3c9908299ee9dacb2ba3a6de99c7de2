@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8¸Ë¦ÀÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8–ş°ÀÏ.
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸ØïU8êú£ÀÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8òÌ²ÀÏ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "name = " 3 times.(Î ¬ÿüÿÿÿÿ8òÌ²ÀÏ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸Ë¦ÀÏ.
+\
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(‡†„‹ıÿÿÿÿ8¸Ë¦ÀÏ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "State =" 3 times.(Î ¬ÿüÿÿÿÿ8òÌ²ÀÏ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Á“§ÀÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î ¬ÿüÿÿÿÿ8£­ÀÏ.
