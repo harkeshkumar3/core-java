@@ -1,26 +1,0 @@
-
-W	java:S125="<This block of commented-out lines of code should be removed.(×»¯'8‹Ôİ÷Ë.
-W	java:S125D"<This block of commented-out lines of code should be removed.(×»¯'8¢ƒŞ÷Ë.
-s
-java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8“Àı÷Ë.
-9
-java:S1643Q"Use a StringBuilder instead.(ÍŸ÷ã8ğÊÚ÷Ë.
->
-java:S16438"Use a StringBuilder instead.(å›†çıÿÿÿÿ8ğÊÚ÷Ë.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÒÜ¶÷Ë.
->
-java:S1643>"Use a StringBuilder instead.(¿Úá¤øÿÿÿÿ8ğÊÚ÷Ë.
-9
-java:S1643)"Use a StringBuilder instead.(Î¨Å8ÀæÜ÷Ë.
-C	java:S131%""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8Ô§Î÷Ë.
-W	java:S125J"<This block of commented-out lines of code should be removed.(×»¯'8‹™Ş÷Ë.
->
-java:S1643K"Use a StringBuilder instead.(…®«Šúÿÿÿÿ8ğÊÚ÷Ë.
-9
-java:S1643E"Use a StringBuilder instead.(ùœîƒ8ğÊÚ÷Ë.
-9
-java:S1643."Use a StringBuilder instead.(é‡ùß8®ÍÜ÷Ë.
-9
-java:S1643U"Use a StringBuilder instead.(€À‡8õÙß÷Ë.
->
-java:S16433"Use a StringBuilder instead.(äèÚ¦ùÿÿÿÿ8ğÊÚ÷Ë.

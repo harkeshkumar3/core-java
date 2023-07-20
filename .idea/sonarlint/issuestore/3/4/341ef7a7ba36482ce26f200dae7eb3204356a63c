@@ -1,4 +1,0 @@
-
-P
-java:S1128"3Remove this unused import 'javax.smartcardio.Card'.(äë˜Ï8ÀíƒëÏ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ì¼ê

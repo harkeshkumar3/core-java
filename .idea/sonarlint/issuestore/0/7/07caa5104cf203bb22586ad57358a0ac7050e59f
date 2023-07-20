@@ -1,7 +1,0 @@
-
-X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8ûÔßíÎ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“€³Ï
-K
-java:S1481")Remove this unused "test" local variable.(Ô¬Äéùÿÿÿÿ8ûÔßíÎ.
-
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ï½åÑ.

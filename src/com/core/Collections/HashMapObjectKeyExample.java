@@ -9,6 +9,7 @@ public class HashMapObjectKeyExample {
     public static void main(String[] args) {
 
 
+
         Employees employees = Employees.EmployeeBuilder.anEmployee()
                 .withId(1)
                 .withName("harkesh")
@@ -50,14 +51,6 @@ class Employees {
     }
 
     @Override
-    public String toString() {
-        return "Employees{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                '}';
-    }
-
-    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
@@ -73,6 +66,14 @@ class Employees {
         int result = id;
         result = 31 * result + (name != null ? name.hashCode() : 0);
         return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Employees{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
     }
 
     public static final class EmployeeBuilder {

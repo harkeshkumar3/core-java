@@ -1,18 +1,0 @@
-
-Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(˜××¡şÿÿÿÿ8ôšå”Î.
-]
-java:S2259f"@A "NullPointerException" could be thrown; "em" is nullable here.(ç˜¸È8ÇÊÿ”Î.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Öíöôüÿÿÿÿ8ñâÌ”Î.
-U
-java:S1197_"8Move the array designator from the variable to the type.(§—¨ˆ8ËÂï”Î.
-:
-java:S2119r"Save and re-use this "Random".(¼İÅf8ÀŒù”Î.
-U	java:S106U"9Replace this use of System.out or System.err by a logger.(”œŞÛ8Ûºæ”Î.
-U
-java:S1197`"8Move the array designator from the variable to the type.(Ö…Şİ8òó”Î.
-Z	java:S106M"9Replace this use of System.out or System.err by a logger.(áµşşüÿÿÿÿ8±ƒâ”Î.
-U	java:S106?"9Replace this use of System.out or System.err by a logger.(¡Æù®8¨¼Ô”Î.
-W
-java:S1118C":Add a private constructor to hide the implicit public one.(àÖ²·8ÉØ”Î.
-:
-java:S2119l"Save and re-use this "Random".(¼İÅf8ÇÊÿ”Î.

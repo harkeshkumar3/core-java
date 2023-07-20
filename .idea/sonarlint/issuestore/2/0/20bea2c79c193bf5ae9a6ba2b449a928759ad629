@@ -1,13 +1,0 @@
-
-B
-java:S1172",Remove this unused method parameter "value".(û’òÇ
-X	java:S125"<This block of commented-out lines of code should be removed.(¿À¼Ğ8Òã¶÷Í.
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(°õŸªúÿÿÿÿ
-g
-java:S1192	"LDefine a constant instead of duplicating this literal "Int printed" 3 times.(°õŸªúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(°õŸªúÿÿÿÿ
-G
-java:S1172",Remove this unused method parameter "value".(¶Â†úşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(°õŸªúÿÿÿÿ
-G
-java:S1172",Remove this unused method parameter "value".(¢­°«øÿÿÿÿ

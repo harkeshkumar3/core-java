@@ -3,7 +3,7 @@ package com.core.Overloading;
 
 class Base {
 
-    int x = 10;
+  static   int x = 10;
 
     public void print() {
         System.out.println("In Base Class print");
@@ -15,14 +15,14 @@ class Base {
 }
 
 public class ClassOverloading extends Base {
-    int x = 20;
+      int x = 20;
 
     public void print() {
-        System.out.println("In SUB Class print");
+        System.out.println("In SUB Class print" +x);
     }
 
     public static void show() {
-        System.out.println("In SUB Class Show");
+        System.out.println("In SUB Class Show" );
     }
 
     public static void main(String[] args) {

@@ -1,22 +1,0 @@
-
-m	java:S128
-"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ8ÂÎêÎ.
-m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8½ªØêÎ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÑß«8ÏûÊêÎ.
-U	java:S106	"9Replace this use of System.out or System.err by a logger.(å›®â8ÏûÊêÎ.
-H
-java:S1481+"&Remove this unused "s" local variable.(¨—À„úÿÿÿÿ8ç­æêÎ.
-X	java:S125"<This block of commented-out lines of code should be removed.(±¯€¤8ÂÎêÎ.
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(òçö¿8ç­æêÎ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÊ¯ù8ÏûÊêÎ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8§»ŞêÎ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä°ëíúÿÿÿÿ8ÏûÊêÎ.
-m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ÏûÊêÎ.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İŠ‰´ûÿÿÿÿ
-g	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(û¿48½ªØêÎ.
-M
-java:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ8ÏûÊêÎ.
-U
-java:S1197)"8Move the array designator from the variable to the type.(ÈšÉ÷8ç­æêÎ.
-m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ8ÏûÊêÎ.

@@ -1,23 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹›´Úùÿÿÿÿ8°ªÇ¢Î.
-E
-java:S1172"(Remove this unused method parameter "a".(«»—Ì8¼”Ë¢Î.
-B
-java:S2129" Remove this "Double" constructor(ÁÅ…Üúÿÿÿÿ8ÕÖç¢Î.
-D
-java:S11724"(Remove this unused method parameter "a".(¹Õìp8Îôá¢Î.
-J
-java:S1172"(Remove this unused method parameter "a".(ñˆ‰øùÿÿÿÿ8·ÔÊ¢Î.
-E
-java:S11728"(Remove this unused method parameter "d".(ËªªÄ8Îôá¢Î.
-U	java:S1069"9Replace this use of System.out or System.err by a logger.(ïñ­œ8Îôá¢Î.
-H
-java:S1481"&Remove this unused "z" local variable.(ÑÃêûúÿÿÿÿ8ß¹ú¢Î.
-X	java:S125"<This block of commented-out lines of code should be removed.(¨æ¹Ğ8®ğÛ¢Î.
-]	java:S125"<This block of commented-out lines of code should be removed.(ø†Öãÿÿÿÿÿ8èúë¢Î.
-Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Åš”×øÿÿÿÿ8œ‚õ¢Î.
-@
-java:S2153"Remove the boxing to "Double".(ÁÅ…Üúÿÿÿÿ8…­ì¢Î.
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¥ñşÂşÿÿÿÿ8Îôá¢Î.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(à££Ûÿÿÿÿÿ8·ÔÊ¢Î.
-U	java:S106@"9Replace this use of System.out or System.err by a logger.(“úÜ±8Îôá¢Î.

@@ -1,22 +1,0 @@
-
-\
-java:S1118":Add a private constructor to hide the implicit public one.(È«¬Òøÿÿÿÿ8íìªøÍ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÅŞšÿÿÿÿÿ8£‹´÷Í.
-]	java:S125	"<This block of commented-out lines of code should be removed.(°ÖÏşÿÿÿÿ8„¹£øÍ.
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(ÆÀûı8÷æ®øÍ.
-i
-java:S12239"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8Á§©øÍ.
-N
-java:S1610#"1Convert the abstract class "A" into an interface.(¶¹«ı8÷æ®øÍ.
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¬¯ˆèûÿÿÿÿ8Ü›üÍ.
-]	java:S125"<This block of commented-out lines of code should be removed.(õ÷Íûÿÿÿÿ8„¹£øÍ.
-]	java:S125"<This block of commented-out lines of code should be removed.(­ Õøûÿÿÿÿ8„¹£øÍ.
-i	java:S1018"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¿ÉÔ8Á§©øÍ.
-^
-java:S2094"BRemove this empty class, write its code or make it an "interface".(€ÔŠy8„¹£øÍ.
-]	java:S125"<This block of commented-out lines of code should be removed.(û»Ö¬ÿÿÿÿÿ8Ü›üÍ.
-X	java:S125"<This block of commented-out lines of code should be removed.(è×ˆá8„¹£øÍ.
-_
-java:S2094#"BRemove this empty class, write its code or make it an "interface".(¶¹«ı8ıœüÍ.
-]	java:S125'"<This block of commented-out lines of code should be removed.(úÍ¹úÿÿÿÿ8ıœüÍ.

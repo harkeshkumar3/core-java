@@ -75,4 +75,18 @@ public class SingletonDesignPattern {
 
 
 
+
+
 }
+
+
+//interface Parent {
+//    public int parentMethod();
+//}
+//@FunctionalInterface // This cannot be FunctionalInterface
+//interface Child extends Parent {
+//    public int childMethod();
+//// It will also extend the abstract method of the Parent Interface
+//// Hence it will have more than one abstract method
+//// And will give a compiler error
+//}

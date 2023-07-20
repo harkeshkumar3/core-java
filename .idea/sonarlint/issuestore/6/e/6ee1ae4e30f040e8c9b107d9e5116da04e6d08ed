@@ -1,14 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÀ€ëşÿÿÿÿ8ö¶ãçĞ.
-D
-java:S1604"(Make this anonymous inner class a lambda(ô§ê8‰¼ÙçĞ.
-U	java:S106	"9Replace this use of System.out or System.err by a logger.(ÃÓÈª8µÄŞçĞ.
-E
-java:S1604"(Make this anonymous inner class a lambda(¼×¨™8‰¼ÙçĞ.
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8»ºÜçĞ.
-J
-java:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8»ºÜçĞ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(˜Ş ·8­ÃßçĞ.
-N
-java:S1481",Remove this unused "thread2" local variable.(ôâ…Æşÿÿÿÿ8úıÚçĞ.

@@ -18,7 +18,7 @@ class OverloadingExample {
 public class OverLoading {
     public static void main(String[] args) {
 
-        //new OverloadingExample().add(2, 3);
+        new OverloadingExample().add(2, 3);
 
 
         String text = "helloworld";

@@ -20,7 +20,7 @@ public class JUnitExample2 {
     }
 
     @Test
-    @DisplayName("Assert Equal Test Case ")
+    @DisplayName("Assert Equal  ")
     void AssertArrayEqualCase() {
         Assertions.assertArrayEquals(new int[]{1, 2, 3}, new int[]{1, 2, 3});
     }
@@ -47,52 +47,44 @@ class Calculator {
 }
 
 class average {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         double num[] = {5.5, 10.1, 11, 12.8, 56.9, 2.5};
         double result;
         result = 0;
         for (int i = 0; i < 6; ++i)
             result = result + num[i];
-        System.out.print(result/6);
+        System.out.print(result / 6);
 
     }
 }
 
 
 class conversion {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         double a = 295.04;
-        int  b = 300;
+        int b = 300;
         byte c = (byte) a;
         byte d = (byte) b;
-        System.out.println(c + " "  + d);
+        System.out.println(c + " " + d);
     }
 }
 
 class increment {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int g = 3;
         System.out.print(++g * 8);
     }
 }
 
 
-
 class array_output {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
 
         int Output = 10;
         boolean b1 = false;
-        if((b1 == true) && ((Output += 10) == 20))
-        {
+        if ((b1 == true) && ((Output += 10) == 20)) {
             System.out.println("We are equal " + Output);
-        }
-        else
-        {
+        } else {
             System.out.println("Not equal! " + Output);
         }
        /* int array_variable [] = new int[10];
@@ -106,17 +98,15 @@ class array_output {
 }
 
 class bitwise_operator {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int var1 = 42;
-        int var2 = ~ var1;
+        int var2 = ~var1;
         System.out.print(var1 + " " + var2);
     }
 }
 
 class leftshift_operator {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         byte x = 64;
         int i;
         byte y;
@@ -127,8 +117,7 @@ class leftshift_operator {
 }
 
 class selection_statements {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int var1 = 5;
         int var2 = 6;
         if ((var2 = 1) == var1)
@@ -139,11 +128,9 @@ class selection_statements {
 }
 
 class comma_operator {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int sum = 0;
-        for (int i = 0, j = 0; i < 5 & j < 5; ++i, j = i + 1)
-        {
+        for (int i = 0, j = 0; i < 5 & j < 5; ++i, j = i + 1) {
             sum += i;
             System.out.println(sum);
         }
@@ -154,8 +141,7 @@ class comma_operator {
 }
 
 class Output {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int x, y = 1;
         x = 10;
         if (x != 10 && x / 0 == 0)
@@ -166,44 +152,46 @@ class Output {
 }
 
 class main_class {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         int x = 9;
         if (x == 9) {
-          //  int x = 8;
+            //  int x = 8;
             System.out.println(x);
         }
     }
 }
 
 class equality {
-    int x=3;
-    int y=4;
-     boolean isequal() {
-        return(x == y);
+    int x = 3;
+    int y = 4;
+
+    boolean isequal() {
+        return (x == y);
     }
 }
+
 class Output1 {
-    public static void main(String args[])
-    {
+    public static void main(String args[]) {
         equality obj = new equality();
         obj.x = 5;
         obj.y = 5;
-        System.out.println(obj.isequal());        }
-}
-
-class access{
-    public int x;
-    private int y;
-    void cal(int a, int b){
-        x =  a + 1;
-        y =  b;
+        System.out.println(obj.isequal());
     }
 }
+
+class access {
+    public int x;
+    private int y;
+
+    void cal(int a, int b) {
+        x = a + 1;
+        y = b;
+    }
+}
+
 class access_specifier extends Throwable {
-    public static void main(String args[])
-    {
-        if( "Welcome".trim() == "Welcome".trim() )
+    public static void main(String args[]) {
+        if ("Welcome".trim() == "Welcome".trim())
             System.out.println("Equal");
         else
             System.out.println("Not Equal");
@@ -219,6 +207,7 @@ class access_specifier extends Throwable {
 
         return collect.get(collect.size() - 1) + " " + collect.get(0);
     }
+
     @Test
     public void test6() {
         assertEquals("1 0", highLow("1 1 0"));

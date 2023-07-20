@@ -1,22 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8´©öÎ.
-n	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§Î€üşÿÿÿÿ8ğ†¹Ï.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±É•ª8´©öÎ.
-Z
-java:S1197/"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ğ†¹Ï.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¹æ
-v	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À†‘„8æ¢ĞºÏ.
-Z	java:S106="9Replace this use of System.out or System.err by a logger.(ÔŠ¼âøÿÿÿÿ8æ¢ĞºÏ.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌÃ½éùÿÿÿÿ
-n	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡¨øÿÿÿÿ8ğ†¹Ï.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8Š‚‡Ï.
-D
-java:S1214:""Move constants to a class or enum.(„’£şÿÿÿÿ8æ¢ĞºÏ.
-Z
-java:S1197C"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8æ¢ĞºÏ.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(íĞş¥ûÿÿÿÿ8ğ†¹Ï.
-i	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§’åö8ğ†¹Ï.
-T	java:S1065"9Replace this use of System.out or System.err by a logger.(¢Ş®>8ğ†¹Ï.
-]	java:S1251"<This block of commented-out lines of code should be removed.(ù’Š‘ûÿÿÿÿ8íÊ¹Ï.
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶†›§8ì‘‚Ï.

@@ -1,6 +1,8 @@
 package com.core;
 
 
+import java.io.Serializable;
+
 class Age {
     private int age;
     private String name;
@@ -22,7 +24,7 @@ class Age {
     }
 }
 
-final class ImmutableObject {
+ class ImmutableObject implements Serializable {
     private final Age age;
 
     ImmutableObject(Age age) {

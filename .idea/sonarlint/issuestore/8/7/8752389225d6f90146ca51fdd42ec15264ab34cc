@@ -1,11 +1,0 @@
-
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(£ÿ¤ûÿÿÿÿ8£å·íÎ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¯¥8£å·íÎ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ÿ¤ûÿÿÿÿ8£å·íÎ.
-=
-java:S2129" Remove this "String" constructor(¥Ûƒß8£å·íÎ.
-]
-java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(“›Ü›8—Û¹íÎ.
-U
-java:S4973"9Use the "equals" method if value comparison was intended.(ùä–_8£å·íÎ.

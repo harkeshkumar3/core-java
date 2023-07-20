@@ -100,9 +100,9 @@ public class Staircase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
-        method1(n);
-        method2A1(n);
-        method2A2(n);
+//        method1(n);
+//        method2A1(n);
+//        method2A2(n);
         method3(n);
         method4(n);
         scanner.close();

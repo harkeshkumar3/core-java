@@ -31,6 +31,11 @@ public class VolatileAndAtomic {
         Thread thread2 = new Thread(() -> {
             flag.set(false);
             count.getAndIncrement();
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
             System.out.println("Flag is thread2 " + count);
 
         });

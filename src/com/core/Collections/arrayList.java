@@ -1,9 +1,8 @@
 package com.core.Collections;
 
+import java.util.AbstractMap;
 import java.util.ArrayList;
 
-public class arrayList {
-}
 
 class DemoarrayList {
     public void show() {

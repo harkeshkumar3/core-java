@@ -1,8 +1,0 @@
-
-N
-java:S1602",Remove useless curly braces around statement(Ø®ž’úÿÿÿÿ8“ªóŽÓ.
-X	java:S125"<This block of commented-out lines of code should be removed.(²¢ÿï8°¥÷ŽÓ.
-X	java:S125"<This block of commented-out lines of code should be removed.(ªñ‹§8°¥÷ŽÓ.
-]	java:S125"<This block of commented-out lines of code should be removed.(Îù¸€ýÿÿÿÿ8°¥÷ŽÓ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(†ôÎ8“ªóŽÓ.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š†½ýÿÿÿÿ
